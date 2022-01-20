@@ -69,6 +69,14 @@
     .col-m12{ width: 100%; }
 
     .md-none{ display: none; }
+
+    .search-position-tab{
+        position: absolute;
+        right: 0px;
+    }
+    .p-relative{
+        position: relative;
+    }
 }
 
 .h-200{ height: 200px; }
